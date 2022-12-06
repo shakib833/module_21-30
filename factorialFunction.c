@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdio.h>
-int fact(int x); //Function er prototype.  Factorial ber kore dibe 
+int fact(int x); //Function er prototype.  Factorial ber kore dibe  
 int main(){
     int n;
     scanf("%d",&n);
