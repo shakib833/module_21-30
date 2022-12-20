@@ -31,10 +31,7 @@ int main()
         printf("%f \n",anss);
         printf("sin 90deg = %f \n",sin(3.141593/2));
         printf("cos 90deg = %d \n",abs(cosans));
-     float deg;
-     scanf("%f \n",&deg);
-     deg = (deg * 3.2426)/180;
-     printf("%f \n",deg);
+
 
     return 0;
 }
